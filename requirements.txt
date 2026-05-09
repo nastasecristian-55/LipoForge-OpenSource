@@ -1,0 +1,4 @@
+customtkinter
+rdkit
+py3Dmol
+pyinstaller
