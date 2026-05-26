@@ -34,7 +34,7 @@ Grab the pre-built binaries from the **[Releases](../../releases)** tab.
 ```bash
 # Clone the repo
 git clone [https://github.com/nastasecristian-55/LipoForge-OpenSource.git](https://github.com/nastasecristian-55/LipoForge-OpenSource.git)
-cd SyndicateLabs
+cd LipoForge
 
 # Install dependencies
 pip install -r requirements.txt
