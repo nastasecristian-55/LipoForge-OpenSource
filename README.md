@@ -52,6 +52,5 @@ Environment: Developed on macOS for cross-platform utility.
 
 **License & Credits**
 
-License: MIT.  
-Context: Originally created as a final project for Didactica Domeniului at the University of Bucharest.  
+License: MIT. 
 
