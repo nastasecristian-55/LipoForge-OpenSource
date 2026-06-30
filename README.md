@@ -15,7 +15,7 @@ LipoForge is a tool I built to bridge the gap between flat 2D chemical strings a
 **Core Specs:**
 
 * **Lipinski & Veber Screening:** Fast calculation of MW, LogP, HBA, HBD, and TPSA.
-* **Interactive 3D:** Real-time generation of molecular conformers.
+* **Interactive 3D:** Real-time generation of molecular conformers (using MMFF94).
 * **Smart Mapping:** Visual cues for Aromatic Rings (Blue), H-Donors (Magenta), and H-Acceptors (Cyan).
 * **Stability:** Custom RDKit embedding logic to prevent conformer crashes.
 
